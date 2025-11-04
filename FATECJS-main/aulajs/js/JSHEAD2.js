@@ -1,0 +1,2 @@
+//MOSTRA MENSAGEM NO CONSOLE
+console.log("MENSAGEM 2");
